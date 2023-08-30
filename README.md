@@ -1,6 +1,7 @@
-<h2 align="left">Hi there 👋!</h2>
-
-###
+<div align="center">
+  <img alt="cat coding" width="150" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheen-code-min.gif" >
+</div>
+<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carolinesampaio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
