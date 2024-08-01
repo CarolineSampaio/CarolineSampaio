@@ -13,7 +13,8 @@ Olá! Eu sou a Carol, uma desenvolvedora web de 25 anos, originalmente de São P
 Tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
 
 ### Formação
-- Qualificação em Desenvolvimento Full Stack (Em Andamento) pelo SENAI.
+- Cursando Análise e Desenvolvimento de Sistemas na PUC PR(previsão de término: DEZ/2026).
+- Qualificação em Desenvolvimento Full Stack pelo SENAI.
 - Graduada em Arquitetura e Urbanismo.
 
 ### Objetivo
@@ -45,7 +46,3 @@ Atualmente, estou em busca da minha primeira oportunidade para atuar como desenv
 ### Contato
 <a href="mailto:sampaio.projeto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  /></a>
 <a href="https://www.linkedin.com/in/carolines-sampaio/" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  /></a>
-
-
-
-
