@@ -7,7 +7,7 @@
 </div>
 <br>
 
-Olá! Eu sou a Carol, uma desenvolvedora web de 25 anos, originalmente de São Paulo, SP, e atualmente residindo em Curitiba. Minha jornada na programação começou há cerca de 1 ano, e desde então, tenho me apaixonado cada vez mais por esse universo.
+Olá! Eu sou a Carol, uma desenvolvedora web de 25 anos, natural de São Paulo, SP. Minha jornada na programação começou há cerca de 1 ano e meio, e desde então, tenho me apaixonado cada vez mais por esse universo.
 
 ### Experiência
 Tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
