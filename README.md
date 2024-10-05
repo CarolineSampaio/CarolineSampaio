@@ -14,6 +14,7 @@ Tenho experiência prática em testes e configuração de softwares de arquitetu
 
 ### Formação
 - Cursando Análise e Desenvolvimento de Sistemas na PUC PR(previsão de término: DEZ/2026).
+- Cursando Bootcamp AWS re/start Cloud pela Generation Brasil (formação jan/2025)
 - Qualificação em Desenvolvimento Full Stack pelo SENAI.
 - Graduada em Arquitetura e Urbanismo.
 
