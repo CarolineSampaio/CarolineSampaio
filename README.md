@@ -19,7 +19,7 @@ Tenho experiência prática em testes e configuração de softwares de arquitetu
 - Graduada em Arquitetura e Urbanismo.
 
 ### Objetivo
-Atualmente, estou em busca da minha primeira oportunidade para atuar como desenvolvedora full stack.
+Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedora full stack júnior.
 
 ## Tecnologias e ferramentas que utilizo:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
