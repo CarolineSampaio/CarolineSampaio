@@ -7,19 +7,20 @@
 </div>
 <br>
 
-Olá! Eu sou a Carol, uma desenvolvedora web de 25 anos, natural de São Paulo, SP. Minha jornada na programação começou há cerca de 1 ano e meio, e desde então, tenho me apaixonado cada vez mais por esse universo.
+Olá! Eu sou a Carol, uma desenvolvedora web de 26 anos, natural de São Paulo, SP mas vivendo em Curitiba PR. Minha jornada na programação começou há cerca de 2 anos, e desde então, tenho me apaixonado cada vez mais por esse universo.
 
 ### Experiência
-Tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
+- Estagiária em Desenvolvimento Web - Ci&T - Atual
+- Também tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
 
 ### Formação
 - Cursando Análise e Desenvolvimento de Sistemas na PUC PR(previsão de término: DEZ/2026).
-- Cursando Bootcamp AWS re/start Cloud pela Generation Brasil (formação jan/2025)
+- Bootcamp AWS re/start Cloud pela Generation Brasil.
 - Qualificação em Desenvolvimento Full Stack pelo SENAI.
 - Graduada em Arquitetura e Urbanismo.
 
-### Objetivo
-Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedora full stack júnior.
+## Certificações
+- AWS Certified Cloud Pratitioner.
 
 ## Tecnologias e ferramentas que utilizo:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
